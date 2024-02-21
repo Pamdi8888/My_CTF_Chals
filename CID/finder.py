@@ -66,6 +66,3 @@ def birthday_on_30_oct():
                 print(i.name)
         except:
             pass
-
-
-men_with_ten_children()
