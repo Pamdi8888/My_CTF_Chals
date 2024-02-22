@@ -5,6 +5,9 @@ MogamBro's brother was murdered by a relative of his. MogamBro approached the CI
 
 The flag format is BITSCTF{FirstNameOfTheMurderer}
 
+## File
+[MogamBro_Investigation.ged](MogamBro_Investigation.ged)
+
 ## Solution
 We are provided with a GEDCOM file which we can open using any genealogy software like MyHeritage Family Tree Builder. <br>
 We observe that all the people have notes some of which contain certain clues. When we inspect MogamBro's notes, it tells us to ask the Russians.
